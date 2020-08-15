@@ -1,0 +1,24 @@
+.navBarMain {
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.navBarM{
+    background: #ffffff;
+   
+ 
+}
+
+.navBar a{
+    text-decoration: none;
+    margin: 0px 8px;
+    color: #565673;
+    font-size: 18px;
+    letter-spacing: 0.6px;
+}
+
+.navBar a:hover{
+    color: #5f9ea0;
+}

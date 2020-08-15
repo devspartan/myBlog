@@ -1,0 +1,18 @@
+.footerMainDiv{
+    margin: 20px auto;
+    width: 100%;
+    position: absolute;
+    background-color: white;
+    
+}
+
+.footerMainDiv2{
+    width:90%;
+    margin: 24px auto;
+    background-color: white;
+}
+
+.footerDiv1{
+    width: 33.33333%;
+    float: left;
+}

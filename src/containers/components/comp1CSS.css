@@ -1,0 +1,60 @@
+.compMainDiv{
+    width: 69%;
+    position: relative;
+    display: block;
+    margin: 25px 0 10px;
+    background-color: white;
+    /* overflow-wrap: break-word; */
+    justify-content: center;
+}
+
+.compMainDivImg1{
+    width:98%;
+    display: block;
+    height: auto;
+    margin: auto;
+    justify-content: center; 
+}
+
+.compMainDivImg2{
+    width:100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    justify-content: center; 
+}
+
+.compMainDivp{
+    color: #4A4848;
+    font-family: 'Open Sans',sans-serif;
+    padding: 10px ;
+    font-size: 14px;
+    display: block;
+    line-height: 1.7;
+    
+}
+
+.featuredDiv{
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgb(61, 59, 59)
+
+}
+
+.titleDivComp{
+    font-size: 32px;
+    letter-spacing: 3px;
+    font-family: 'Open Sans', sans-serif;
+    transition: 0.4s linear;
+    text-transform: capitalize;
+    animation-duration: 0.4s;
+}
+
+.textDiv{
+    position: relative;
+    width: 100%;
+    padding: 2px 0 0px;
+    text-align: center;
+    margin-top: 0;
+}

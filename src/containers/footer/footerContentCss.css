@@ -1,0 +1,58 @@
+.imgTextDivMain{
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+
+.imgTextDiv{
+    position: relative;
+    margin: 10px auto;
+    width: 100%;
+    text-align: center;
+    /* background-color: blue; */
+    display: flex;
+}
+
+.imgTextDiv img{
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    padding: 15px 0 15px 5px;
+}
+
+.para{
+    padding: 0 0 0 5px;
+    margin-top: 0;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #ADADAD;
+}
+
+.imgTextDiv a{
+    position: relative;
+    display: block;
+    font-size: 16px;
+    text-align: left;
+    /* padding: 10px 0 0 5px; */
+    margin: 15px 0 0 5px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    transition: 0.4s linear;
+}
+
+.imgTextDiv a:hover{
+    color:#5f9ea0;
+    cursor: pointer;;
+
+}
+
+.Extra{
+    font-size: 20px;
+    
+}
+

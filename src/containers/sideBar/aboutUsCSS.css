@@ -1,0 +1,28 @@
+.aboutMainDiv{
+    margin: 25px auto;
+    background-color: white;
+    text-align: center;
+    overflow: hidden;
+    
+    justify-content: center;
+}
+
+.aboutTitle{
+    letter-spacing: 2px;
+    color: black;
+    font-size: 22px;
+    font-family: Raleway,sans-serif;
+    margin: 15px auto;
+    
+}
+
+.aboutMainDiv img{
+    min-width: 370px;
+    width: 100%;
+    margin: auto;
+}
+
+.aboutMainDiv p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}

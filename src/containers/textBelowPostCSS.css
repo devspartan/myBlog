@@ -1,0 +1,78 @@
+.textContainer{
+    background-color: whitesmoke;
+    margin: auto;
+    
+}
+
+.textDiv{
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    padding: 2px 0 10px;
+    text-align: center;
+    margin-top: 0;
+    color: rgb(61, 59, 59)
+}
+
+.featuredDiv{
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgb(61, 59, 59)
+
+}
+
+
+.titleDiv{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: 'Open Sans', sans-serif;
+    transition: 0.4s linear;
+    animation-duration: 0.4s;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgb(61, 59, 59);
+}
+
+
+/* font-family: 'Barlow Condensed', sans-serif; */
+/* font-family: 'Dancing Script', cursive; */
+
+.textDiv h1:hover{
+    cursor: pointer;
+    color:#4aa9d4;
+}
+
+.paraDiv{
+    padding: 15px 30px;
+    letter-spacing: 1.5px;
+    font-family: 'Open Sans', sans-serif
+}
+
+.readMoreDiv{
+    transition: all 0.7s ease;
+    border: 1px solid #ADADAD;
+    border-radius: 30px;
+    color: #ADADAD;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+    padding: 10px 25px 8px;
+    display: inline-block;
+    font-family: "Open Sans",sans-serif;
+    cursor: pointer;
+    margin: 0 auto 10px; 
+    text-decoration: none;
+  
+}
+
+.readMoreDiv:hover{
+    color: white;
+    background-color: #4aa9d4;
+}
+
+.titleDiv:hover{
+    color:#5f9ea0;
+    cursor: pointer;;
+
+}

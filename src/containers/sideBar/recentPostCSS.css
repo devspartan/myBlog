@@ -1,0 +1,33 @@
+.recentMainDiv{
+    background-color: white;
+    width: 100%;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.recentTextDiv{
+    font-size: 22px;
+    padding: 25px 0 15px 0;
+    letter-spacing: 2px;
+    color: black;
+    font-family: Raleway,sans-serif;
+    margin: 15px auto;
+}
+
+.recentMainDiv a{
+    text-decoration: none;
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.4s linear;
+    font-size: 18px;
+    color: #565673;
+    padding: 20px ;
+    display: block;
+}
+
+.recentMainDiv a:hover{
+        
+    color:#5f9ea0;
+}

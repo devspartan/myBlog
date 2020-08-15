@@ -1,0 +1,28 @@
+.parentDiv{
+    display: flex;
+}
+
+.leftMainDiv{
+    width: 69%; 
+    /* margin: auto; */
+}
+
+.rightMainDiv{
+    width: 29%;
+    justify-content: center;
+    margin: 0 0 auto auto;
+}
+
+.butonDiv{
+    justify-content: space-between;
+    float: right;
+}
+
+#btnPage2{
+    
+    float: none;
+}
+
+#btnPage3{
+    float: left;
+}
