@@ -8,7 +8,7 @@ function navBar() {
         <div class='navBarMain'>
             <div className='navBarM'>
                 <nav className='navBar'>
-                    <a href='http://localhost:3000'>Home</a>
+                    <a href='https://devspartan.github.io/myBlog/'>Home</a>
                     <a href='#'>Features</a>
                     <a href='#'>Learn Blogging</a>
                     <a href='#'>Documentation</a>

@@ -13,7 +13,7 @@ class TextBelowPost extends Component {
                     <div className='textDiv'>
                         <p className='featuredDiv'>{this.props.features}</p>
 
-                        <a href={'http://localhost:3000/postpage/' + this.props.id} className='titleDiv' >{this.props.title}</a>
+                        <a href={'https://devspartan.github.io/myBlog/postpage/' + this.props.id} className='titleDiv' >{this.props.title}</a>
 
                         <p>posted on May 03, 2020 by devSpartan</p>
 
@@ -23,7 +23,7 @@ class TextBelowPost extends Component {
                         Securing Marianne led welcomed offended but offering six rapt...</p>
 
 
-                        <a href={'http://localhost:3000/postpage/' + this.props.id} className='readMoreDiv'>Read More </a>
+                        <a href={'https://devspartan.github.io/myBlog/postpage/' + this.props.id} className='readMoreDiv'>Read More </a>
 
                     </div>
 
